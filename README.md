@@ -1,9 +1,10 @@
 # Hi, I'm Arvin 👋  
 
 ### 🌟 About Me  
-I’m a **Software Engineer** with 2+ years of experience crafting scalable and reliable solutions using **Java**, **Spring Boot**, and **Microservices Architecture**. I’m passionate about solving complex problems, designing robust systems, and constantly learning new technologies.  
+I’m a **full stack Software Engineer** with 2+ years of experience crafting scalable and reliable solutions using **Java**, **Spring Boot**, and **Microservices Architecture**. I’m passionate about solving complex problems, designing robust systems, and constantly learning new technologies.  
 
 ### 💻 What I Do  
+- **Frontend Development**: Designing Web pages using React.js, HTML, Sass
 - **Backend Development**: Designing RESTful APIs, optimizing performance, and ensuring system reliability.  
 - **Cloud & DevOps**: Building and deploying scalable applications using **AWS**, **Docker**, **Kubernetes**, and CI/CD pipelines.  
 - **System Optimization**: Migrating monolithic systems to microservices, improving scalability, and reducing infrastructure costs.  
